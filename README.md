@@ -1,6 +1,7 @@
 # Sum and average calculator
 
-This is a sum and average calculator written in x86 AT&T assembly. It first takes how many numbers to calculate average and sum to, then it takes inputs separated by space.
+This is a sum and average calculator written in x86 AT&T assembly. It first takes how many numbers to calculate average and sum to, then it takes inputs separated by space.  
+This program was made an assignment for the Computer Organization and Architecture course taught by Cairo University - Faculty of Computers and Artificial Intelligence.
 
 ```console
 ~$ .\sum_and_average.exe
